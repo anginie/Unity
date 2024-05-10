@@ -1,0 +1,113 @@
+{"target": 
+	[
+		{
+			"actionId": 1001,
+			"actionName":"poke",
+			"vigorTarget": 0,
+			"chancesCaused": [20,70,92,100],
+			"damageCaused": [0,10,30,100,100],
+			"vigorSelf": -1,
+			"chancesReduced": [],
+			"damageReduced": []
+		},{
+			"actionId": 1002,
+			"actionName":"thrust",
+			"vigorTarget": 0,
+			"chancesCaused": [30,65,88,100],
+			"damageCaused": [0,10,30,100,100],
+			"vigorSelf": -2,
+			"chancesReduced": [],
+			"damageReduced": []
+		},{
+			"actionId": 1003,
+			"actionName":"counter",
+			"vigorTarget": -1,
+			"chancesCaused": [28,68,88,100],
+			"damageCaused": [0,10,30,100,100],
+			"vigorSelf": -2,
+			"chancesReduced": [24,89,99,100],
+			"damageReduced": [0,10,30,60,100]
+		},{
+			"actionId": 1004,
+			"actionName":"cleave",
+			"vigorTarget": 0,
+			"chancesCaused": [20,92,98,100],
+			"damageCaused": [0,10,50,100,100],
+			"vigorSelf": -1,
+			"chancesReduced": [],
+			"damageReduced": []
+		},{
+			"actionId": 1005,
+			"actionName":"combo",
+			"vigorTarget": 0,
+			"chancesCaused": [10,80,97,100],
+			"damageCaused": [0,10,50,100,100],
+			"vigorSelf": -2,
+			"chancesReduced": [],
+			"damageReduced": []
+		},{
+			"actionId": 1006,
+			"actionName":"stab",
+			"vigorTarget": -1,
+			"chancesCaused": [15,90,97,100],
+			"damageCaused": [0,10,50,100,100],
+			"vigorSelf": -2,
+			"chancesReduced": [40,88,98,100],
+			"damageReduced": [0,10,30,60,100]
+		},{
+			"actionId": 1007,
+			"actionName":"defend",
+			"vigorTarget": 0,
+			"chancesCaused": [],
+			"damageCaused": [],
+			"vigorSelf": 1,
+			"chancesReduced": [10,50,90,100],
+			"damageReduced": [0,10,30,60,100]
+		},{
+			"actionId": 1008,
+			"actionName":"guard",
+			"vigorTarget": -1,
+			"chancesCaused": [],
+			"damageCaused": [],
+			"vigorSelf": 0,
+			"chancesReduced": [5,40,80,100],
+			"damageReduced": [0,10,30,60,100]
+		},{
+			"actionId": 1009,
+			"actionName":"bash",
+			"vigorTarget": -1,
+			"chancesCaused": [30,82,98,100],
+			"damageCaused": [0,10,20,100,100],
+			"vigorSelf": -1,
+			"chancesReduced": [40,90,99,100],
+			"damageReduced": [0,10,30,60,100]
+		},{
+			"actionId": 1010,
+			"actionName":"evade",
+			"vigorTarget": -1,
+			"chancesCaused": [],
+			"damageCaused": [],
+			"vigorSelf": 1,
+			"chancesReduced": [10,40,90,100],
+			"damageReduced": [0,10,30,60,100]
+		},{
+			"actionId": 1011,
+			"actionName":"rouse",
+			"vigorTarget": 0,
+			"chancesCaused": [],
+			"damageCaused": [],
+			"vigorSelf": 3,
+			"chancesReduced": [20,75,95,100],
+			"damageReduced": [0,10,30,60,100]
+		},{
+			"actionId": 1012,
+			"actionName":"taunt",
+			"vigorTarget": -2,
+			"chancesCaused": [],
+			"damageCaused": [],
+			"vigorSelf": 1,
+			"chancesReduced": [20,75,95,100],
+			"damageReduced": [0,10,30,60,100]
+		}
+	]
+}

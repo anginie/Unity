@@ -1,0 +1,3 @@
+Keys,English,Chinese
+Name_lance,"lance","减少自身伤害"
+Name_unseat,"unseat","减少自身伤害"
